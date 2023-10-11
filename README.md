@@ -4,7 +4,7 @@ Dashboard Updates 09/23/2023.
 
 Change Notes:
 
-    Renaming BHS Uniti to BHS Luna (my french bulldog pup luna passed away yesterday 😭 (09/22/23). to remember her, i am naming this release after her).
+    Renaming BHS Uniti to BHS Luna.
     Created Additional collapse-able graph section to create complete separation between stats, setup and status areas of the dashboard.
     Added logic to remove app-install list option such that only single instance can be initiated from dashboard.
     Added app persistence across reboots while retaining boot/pull/run technique.
